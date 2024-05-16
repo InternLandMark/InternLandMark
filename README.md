@@ -21,7 +21,7 @@ Welcome to the InternLandMark organization. InternLandMark is mainly developed b
 
 - LandMark 2.0: 
 
-  We adopt the [Scaffold-GS](https://github.com/city-super/Scaffold-GS) algorithm, which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
+  We propose the [Scaffold-GS](https://github.com/city-super/Scaffold-GS) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
 
   Based on Scaffold-GS, we have leveraged optimizations in both the system([LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) and operators([OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) to reduce the computational requirements for training and rendering by two orders of magnitude compared to the previous generation.
 
