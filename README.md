@@ -5,8 +5,10 @@
 <!--
 ![GitHub Org's stars](https://img.shields.io/github/stars/InternLandMark)
 ![GitHub Org's stars](https://img.shields.io/github/stars/city-super/Scaffold-GS)
--->
 ![Static Badge](https://img.shields.io/badge/stars-10000-blue?logo=github&labelColor=black&color=white)
+-->
+![GitHub User's stars](https://img.shields.io/github/stars/InternLandMark?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER)
+
 
 Welcome to the InternLandMark organization. InternLandMark is mainly developed by Shanghai AI Laboratory.
 
