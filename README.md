@@ -21,11 +21,13 @@ Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Sh
 
 - LandMark 2.0:
 
-  We build a large-scale, comprehensive, and high-quality synthetic dataset [MatrixCity](https://github.com/city-super/MatrixCity) for city-scale neural rendering researches.
+  We build a large-scale, comprehensive, and high-quality synthetic dataset [MatrixCity](https://github.com/city-super/MatrixCity) (ICCV 2023) for city-scale neural rendering researches.
 
   We propose the [Scaffold-GS](https://github.com/city-super/Scaffold-GS) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
 
-  Based on Scaffold-GS, we have leveraged optimizations in both the system([LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) and operators([OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) to reduce the computational requirements for training and rendering by two orders of magnitude compared to the previous generation.
+  Inspired by the Level-of-Detail (LOD) techniques, we introduce [Octree-GS](https://github.com/city-super/Octree-GS), featuring an LOD-structured 3D Gaussian approach supporting level-of-detail decomposition for scene representation that contributes to the final rendering results.
+
+  Based on the algorithm mentioned above, we leverage optimizations in both the system([LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) and operators([Flash3dGS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) to reduce the computational requirements for training and rendering by two orders of magnitude compared to the previous generation.
 
   We further expand the model's editable capabilities and have launched a public experiential project, called [CityEyes](https://github.com/InternLandMark/InternLandMark/edit/main/README.md).
 
@@ -42,7 +44,7 @@ Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Sh
 
 ## Toolchain
 - [LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
-- [OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
+- [Flash3dGS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
 
 ## Applications
 - [CityEyes](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
