@@ -27,21 +27,19 @@ Welcome to the InternLandMark organization. InternLandMark is mainly developed b
 
   We further expand the model's editable capabilities and have launched a public experiential project, called [CityEyes](https://github.com/InternLandMark/InternLandMark/edit/main/README.md).
 
-- LandMark 3.0: ....
-
 ## Models
 
 - [GridNerf](https://github.com/InternLandMark/LandMark): Grid-guided Neural Radiance Fields for Large Urban Scenes.
 - [Scaffold-GS](https://github.com/city-super/Scaffold-GS): Structured 3D Gaussians for View-Adaptive Rendering.
-- [Octree-GS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
+<!-- - [Octree-GS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
+-->
 
 ## Toolchain
-- [LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): ... 
-- [OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): ... 
-- [Frontend](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): ...
+- [LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
+- [OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
 
 ## Applications
-- [CityEyes](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): ...
+- [CityEyes](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
 
   
 <!--
