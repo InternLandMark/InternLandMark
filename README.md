@@ -35,12 +35,10 @@ Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Sh
 
 - [GridNerf](https://github.com/InternLandMark/LandMark): Grid-guided Neural Radiance Fields for Large Urban Scenes.
 - [Scaffold-GS](https://github.com/city-super/Scaffold-GS): Structured 3D Gaussians for View-Adaptive Rendering.
-<!-- - [Octree-GS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
--->
+- [Octree-GS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
 
 ## Dataset
 - [MatrixCity](https://github.com/city-super/MatrixCity): A Large-scale City Dataset for City-scale Neural Rendering and Beyond.
-
 
 ## Toolchain
 - [LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
