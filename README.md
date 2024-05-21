@@ -8,7 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/stars-10000-blue?logo=github&labelColor=black&color=white)
 ![GitHub Org's stars](https://img.shields.io/github/stars/city-super)
 -->
-![GitHub User's stars](https://img.shields.io/github/stars/InternLandMark?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER)
+![GitHub User's stars](https://img.shields.io/github/stars/InternLandMark?affiliations=OWNER%2CCOLLABORATOR)
 
 
 
