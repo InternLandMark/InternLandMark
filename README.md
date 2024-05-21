@@ -34,6 +34,10 @@ Welcome to the InternLandMark organization. InternLandMark is mainly developed b
 <!-- - [Octree-GS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
 -->
 
+## Dataset
+- [MatrixCity](https://github.com/city-super/MatrixCity): A Large-scale City Dataset for City-scale Neural Rendering and Beyond.
+
+
 ## Toolchain
 - [LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
 - [OptimizedDiffRasterization](https://github.com/InternLandMark/InternLandMark/edit/main/README.md): To be continued..
