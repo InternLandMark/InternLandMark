@@ -25,7 +25,7 @@ Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Sh
 
   We propose the [Scaffold-GS](https://github.com/city-super/Scaffold-GS) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
 
-  Inspired by the Level-of-Detail (LOD) techniques, we introduce [Octree-GS](https://github.com/city-super/Octree-GS), featuring an LOD-structured 3D Gaussian approach supporting level-of-detail decomposition for scene representation that contributes to the final rendering results.
+  Inspired by the Level-of-Detail (LOD) techniques, we introduce [Octree-GS](https://github.com/city-super/Octree-GS), featuring an LOD-structured 3D Gaussian approach supporting level-of-detail decomposition for scene representation that contributes to the large scenes rendering.
 
   Based on the algorithm mentioned above, we leverage optimizations in both the system([LandMarkSystem](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) and operators([Flash3dGS](https://github.com/InternLandMark/InternLandMark/edit/main/README.md)) to reduce the computational requirements for training and rendering by two orders of magnitude compared to the previous generation.
 
