@@ -7,13 +7,13 @@
 Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Shanghai AI Laboratory. We welcome contributions to our project in different forms.
 
 ## Release
-- LandMark 1.0
+- LandMark 1.0 [[Doc](https://internlandmark.github.io/LandMark_Documentation/)]
 
-  We propose the project LandMark, the groundbreaking large-scale 3D real-world city scene modeling and rendering system. The project is built upon [GridNeRF](https://city-super.github.io/gridnerf/) (CVPR23). Please refer to the [document page](https://internlandmark.github.io/LandMark_Documentation/) for more details.
-
-- LandMark 2.0:
+  We propose the project LandMark, the groundbreaking large-scale 3D real-world city scene modeling and rendering system. The project is built upon [GridNeRF](https://city-super.github.io/gridnerf/) (CVPR23).
 
   We build a large-scale, comprehensive, and high-quality synthetic dataset [MatrixCity](https://city-super.github.io/matrixcity/) (ICCV 2023) for city-scale neural rendering researches.
+
+- LandMark 2.0 [[Doc](https://github.com/InternLandMark)]
 
   We propose the [Scaffold-GS](https://city-super.github.io/scaffold-gs) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
 
