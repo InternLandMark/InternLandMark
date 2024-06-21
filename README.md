@@ -6,35 +6,40 @@
 
 Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Shanghai AI Laboratory. We welcome contributions to our project in different forms.
 
-## Release
-- LandMark 1.0 [[Doc](https://internlandmark.github.io/LandMark_Documentation/)]
+We provide [CityEyes](https://landmark.intern-ai.org.cn/archi-view/home), which is a public experiential project where everyone can freely travel and edit the city scenes provided within it.
 
-  We propose the project LandMark, the groundbreaking large-scale 3D real-world city scene modeling and rendering system. The project is built upon [GridNeRF](https://city-super.github.io/gridnerf/) (CVPR23).
+If you want to learn more about us, please [click here](https://landmark.intern-ai.org.cn/).
 
-  We build a large-scale, comprehensive, and high-quality synthetic dataset [MatrixCity](https://city-super.github.io/matrixcity/) (ICCV 2023) for city-scale neural rendering researches.
+## 🚀 Release
+🔥 LandMark 2.0 [[Doc](https://mp.weixin.qq.com/s/G596DS2JLcclDXmkgxnr6g)]
 
-- LandMark 2.0 [[Doc](https://github.com/InternLandMark)]
+- [06/2024] We expand the model's editable capabilities and have launched a public experiential project, called [CityEyes](https://landmark.intern-ai.org.cn/archi-view/home), where everyone can freely travel and edit the city scenes.
 
-  We propose the [Scaffold-GS](https://city-super.github.io/scaffold-gs) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
+- [03/2024] Inspired by the Level-of-Detail (LOD) techniques, we introduce [Octree-GS](https://city-super.github.io/octree-gs), featuring an LOD-structured 3D Gaussian approach supporting level-of-detail decomposition for scene representation that contributes to the large scenes rendering.
 
-  Inspired by the Level-of-Detail (LOD) techniques, we introduce [Octree-GS](https://city-super.github.io/octree-gs), featuring an LOD-structured 3D Gaussian approach supporting level-of-detail decomposition for scene representation that contributes to the large scenes rendering.
+- [11/2023] We propose the [Scaffold-GS](https://city-super.github.io/scaffold-gs) (CVPR24, Highlight), which combines the high-performance rendering efficiency of 3D Gaussian Splatting with the flexibility and high quality of various classic NeRF representations.
 
-  Based on the algorithm mentioned above, we leverage optimizations in both the system ([LandMarkSystem](https://github.com/InternLandMark)) and operators ([Flash3DGS](https://github.com/InternLandMark)) to reduce the computational requirements for training and rendering by two orders of magnitude compared to the previous generation.
+🎉 LandMark 1.0 [[Doc](https://internlandmark.github.io/LandMark_Documentation/)]
 
-  We further expand the model's editable capabilities and have launched a public experiential project, called [CityEyes](https://github.com/InternLandMark).
+- [01/2024] We release code about kernel optimization of dynamic fetching rendering in [LandMark](https://github.com/InternLandMark/LandMark).
 
-## Models
+- [11/2023] We release code about dynamic fetching rendering in [LandMark](https://github.com/InternLandMark/LandMark).
 
+- [09/2023] We release code about hybrid parallel training with model parallel and DDP training in [LandMark](https://github.com/InternLandMark/LandMark).
+
+- [09/2023] We build a large-scale, comprehensive, and high-quality synthetic dataset [MatrixCity](https://city-super.github.io/matrixcity/) (ICCV 2023) for city-scale neural rendering researches.
+
+- [07/2023] We propose the project [LandMark](https://github.com/InternLandMark/LandMark), the groundbreaking large-scale 3D real-world city scene modeling and rendering system. The project is built upon [GridNeRF](https://city-super.github.io/gridnerf/) (CVPR23).
+
+
+## ✨ Models
 - [GridNerf](https://github.com/InternLandMark/LandMark): Grid-guided Neural Radiance Fields for Large Urban Scenes.
 - [Scaffold-GS](https://github.com/city-super/Scaffold-GS): Structured 3D Gaussians for View-Adaptive Rendering.
 - [Octree-GS](https://github.com/city-super/Octree-GS): Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians.
 
-## Dataset
+## 🏤 Dataset
 - [MatrixCity](https://github.com/city-super/MatrixCity): A Large-scale City Dataset for City-scale Neural Rendering and Beyond.
 
-## Toolchain
+## ⚡️ Toolchain
 - [LandMarkSystem](https://github.com/InternLandMark): Coming soon...
 - [Flash3DGS](https://github.com/InternLandMark): Coming soon...
-
-## Applications
-- [CityEyes](https://github.com/InternLandMark): Coming soon...
