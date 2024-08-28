@@ -9,12 +9,19 @@
 
 Welcome to the InternLandMark homepage. InternLandMark is mainly developed by Shanghai AI Laboratory. We welcome contributions to our project in different forms.
 
-We provide [CityEyes](https://landmark.intern-ai.org.cn/archi-view/home), which is a public experiential project where everyone can freely travel and edit the city scenes provided within it.
+We provide 🔥[CityEyes](https://landmark.intern-ai.org.cn/archi-view/home)🔥, which is a public experiential project where everyone can freely travel and edit the city scenes provided within it.
 
 If you want to learn more about us, please [click here](https://landmark.intern-ai.org.cn/).
 
 ## 🚀 Release
-🔥 LandMark 2.0 [[Doc](https://mp.weixin.qq.com/s/G596DS2JLcclDXmkgxnr6g)]
+
+🔥 LandMark 3.0 [[Doc](https://mp.weixin.qq.com/s/nfCJowiYT4mfHJoHSeLWZA)]
+
+- [08/2024] We public the [LandMarkSystem](https://github.com/InternLandMark/LandMarkSystem), which is the first open-source system for large-scale scene reconstruction training and real-time rendering.
+
+- [08/2024] We develop the [FlashGS](https://github.com/InternLandMark/FlashGS) to enable real-time 3D Gaussian Splatting (3DGS) based rendering especially for large-scale and high-resolution scenes.
+ 
+⭐ LandMark 2.0 [[Doc](https://mp.weixin.qq.com/s/G596DS2JLcclDXmkgxnr6g)]
 
 - [06/2024] We expand the model's editable capabilities and have launched a public experiential project, called [CityEyes](https://landmark.intern-ai.org.cn/archi-view/home), where everyone can freely travel and edit the city scenes.
 
@@ -44,5 +51,7 @@ If you want to learn more about us, please [click here](https://landmark.intern-
 - [MatrixCity](https://github.com/city-super/MatrixCity): A Large-scale City Dataset for City-scale Neural Rendering and Beyond.
 
 ## ⚡️ Toolchain
-- [LandMarkSystem](https://github.com/InternLandMark): Coming soon...
-- [Flash3DGS](https://github.com/InternLandMark): Coming soon...
+- [LandMarkSystem](https://github.com/InternLandMark/LandMarkSystem): The first open-source system for large-scale scene reconstruction training and real-time rendering.
+- [FlashGS](https://github.com/InternLandMark/FlashGS): An efficient CUDA Python library, enabling real-time 3D Gaussian Splatting (3DGS) based rendering especially for large-scale and high-resolution scenes.
+
+
